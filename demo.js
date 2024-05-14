@@ -1,1 +1,2 @@
-console.log('demo.js')
+let user = 'Amantu'
+console.log(user)
